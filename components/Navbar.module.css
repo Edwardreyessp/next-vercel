@@ -1,0 +1,9 @@
+.menu-container {
+  display: flex;
+  gap: 10px;
+  margin: 2rem;
+}
+
+.menu-container a {
+  margin-right: 10px;
+}
